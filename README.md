@@ -4,4 +4,4 @@
 
 Goal is to let streamers create personalized quizzes based off of their content . 
 
-Streamer upload snippet stream, user watches stream. Streamer creates quiz on the front end. user inputs correct value then mints Nft.
+livePeer Streamer uploads snippet stream, user watches stream. Streamer creates quiz on the front end. user inputs correct value then mints Nft.
