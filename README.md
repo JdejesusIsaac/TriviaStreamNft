@@ -1,6 +1,15 @@
 # TriviaStreamNft
 
-1 contract with a “mintNft” function,  to mint NFT user has to watch 30 second stream then input correct value into mintNft() function. We want to launch several for streamers on Livepeer to interact with viewer via quiz.
+
+1 contract with a “mintNft” function, user has input correct value into mintNft() function to earn Nft.    require(2 + value == 4, "Wrong value!")
+Nft gives user personal id. With this personal ID user can gain acces to StreamDao.
+
+
+
+
+Idea.
+
+To mint NFT user has to watch 30 second stream then input correct value into mintNft() function. We want to launch several for streamers on Livepeer to interact with viewer via quiz that MintsNft.
 
 Goal is to let streamers create personalized quizzes based off of their content . Then have content user solve quiz by inputting right value or "answer" into smartcontract mintNft Function. 
 
