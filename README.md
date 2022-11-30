@@ -1,10 +1,10 @@
 # TriviaStreamNft
 
 
-1 contract with a “mintNft” function, user has input correct value into mintNft() function to earn Nft.    triviaStream.sol line10 how to gain access
+1 contract with a “mintNft” function, user has input correct value into mintNft() function to earn Nft.   
 Nft gives user personal id. With this personal ID user can gain access to StreamDao.
 
-
+ triviaStream.sol line10 how to gain access
 
 
 Idea.
