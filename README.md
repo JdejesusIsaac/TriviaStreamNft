@@ -9,7 +9,7 @@ Nft gives user personal id. With this personal ID user can gain access to Stream
 
 #GOAL.
 
-To mint NFT user has to watch 30 second stream then input correct value into mintNft() function. We want to launch several for streamers on Livepeer to interact with viewer via quiz that MintsNft.
+To mint NFT user has to watch 30 second stream then input correct value into mintNft() function. We want to launch several triviaStream Smartcontracts for streamers on Livepeer to interact with viewer via quiz that MintsNft.
 
 Goal is to let streamers create personalized quizzes based off of their content . Then have content user solve quiz by inputting right value or "answer" into smartcontract mintNft Function. 
 
