@@ -1,7 +1,7 @@
 # TriviaStreamNft
 
 
-1 contract with a “mintNft” function, user has input correct value into mintNft() function to earn Nft.    require(2 + value == 4, "Wrong value!")
+1 contract with a “mintNft” function, user has input correct value into mintNft() function to earn Nft.    triviaStream.sol line10
 Nft gives user personal id. With this personal ID user can gain acces to StreamDao.
 
 
