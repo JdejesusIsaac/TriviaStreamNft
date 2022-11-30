@@ -1,6 +1,6 @@
 # TriviaStreamNft
 
-1 contract with a “mintNft” function,  to mint NFT user has to watch 30 second stream then input correct value into mintNft() function.
+1 contract with a “mintNft” function,  to mint NFT user has to watch 30 second stream then input correct value into mintNft() function. We want o launch several for streamer on Livepeer.
 
 Goal is to let streamers create personalized quizzes based off of their content . Then have content user solve quiz by inputting right value or "answer" into smartcontract mintNft Function. 
 
