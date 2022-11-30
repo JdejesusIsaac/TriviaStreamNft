@@ -1,0 +1,21 @@
+----------------------------------------------------
+deploying "StreamNft" (tx: 0x19f88f562c58a9193acb242036cee5036c86eefa6dd4de7043e4c94541ffac2e)...: deployed at 0xa7C03faa9504E5C3453F550339b2660C8b835D70 with 2534799 gas
+Verifying...
+Verifying contract...
+Nothing to compile
+Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.7;"
+--> base64-sol/base64.sol
+
+
+Successfully submitted source code for contract
+contracts/triviaStream.sol:StreamNft at 0xa7C03faa9504E5C3453F550339b2660C8b835D70
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract StreamNft on Etherscan.
+https://goerli.etherscan.io/address/0xa7C03faa9504E5C3453F550339b2660C8b835D70#code
+----------------------------------------------------
+reusing "NftPilarofEducation" at 0xad4E1e0De2Af8ee0Fc99c8FaBCDf7A662fBa8345
+Verifying...
+Verifying contract...
+Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.7;"
+--> base64-sol/base64.sol

@@ -1,0 +1,20 @@
+{
+  "name": "NftTriva",
+  "version": "1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.8.0",
+    "base64-sol": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "hardhat-deploy": "^0.11.21",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.2"
+  }
+}
