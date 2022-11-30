@@ -1,5 +1,5 @@
 # TriviaStreamNft
-# Dynamic nfts earned by viewer watching LivePeer Streams, answering questions based on ztream levels them up. Who wants to help me build this!!
+# Dynamic nfts earned by viewer watching LivePeer Streams, answering questions based on Stream levels them up. Who wants to help me build this!!
 
 SmartContract logic: 1 contract with a “mintNft” function, user has to input correct value into mintNft() function to earn Nft.   
 Nft gives user personal id. With this personal ID user can gain access to StreamDao.
