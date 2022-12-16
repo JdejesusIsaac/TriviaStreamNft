@@ -22,7 +22,7 @@ const RINKEBY_RPC_URL =
 const gorli_Rpc_Url = process.env.Gorli_Rpc_Url
 const PRIVATE_KEY =
     process.env.PRIVATE_KEY ||
-    "0x11ee3108a03081fe260ecdc106554d09d9d1209bcafd46942b10e02943effc4a"
+    ""
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 
 module.exports = {
@@ -30,7 +30,7 @@ module.exports = {
     networks: {
         hardhat: {
             forking: {
-                url: "https://eth-mainnet.g.alchemy.com/v2/96MrehoJu4frDMrrIsmILber-4Cht0-r",
+                url: "https://eth-mainnet.g.alchemy.com/v2/",
                 blockNumber: 14390000
                 },
             chainId: 31337,
