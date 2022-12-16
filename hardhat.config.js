@@ -74,7 +74,7 @@ module.exports = {
     },
     etherscan: {
         apiKey: {
-            goerli: 'R2DXFTWKN1EAAFMRCZAKSCAEUA9SYT6G19'
+            goerli: ''
         }
     },
     gasReporter: {
