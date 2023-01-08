@@ -17,3 +17,11 @@ Goal is to let streamers create personalized quizzes based off of their content 
 livePeer Streamer uploads snippet stream, user watches stream. Streamer creates quiz on the front end. user inputs correct value into smart contract then mints Nft.
 
 
+# FrontEnd
+
+https://github.com/JdejesusIsaac/TriviaStreamNftFrontEnd
+
+
+# Verified SmartContract
+
+https://goerli.etherscan.io/address/0x76589FD469028326cF9E165916d174035c4Cd60f#code
